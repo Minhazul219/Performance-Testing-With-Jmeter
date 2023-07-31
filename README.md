@@ -69,8 +69,11 @@ Analyze and Report.
 Example of Performance Test Cases:
 
 1.Verify response time is not more than 4 secs when 1000 users access the application.(stress testing)
+
 2.Verify response time of the application under load is within an acceptable range when the network connection slow.(Stress testing)
+
 3.Check the maximum number of user that the application can handle before it crashes.(Stress Test)
+
 4.Check database execution time when 500 records are read/write simultaneously.(endurance testing)
 5.Check CPU and memory usage of the application and database server under peak load conditions.(load testing)
 6.Verify response time of application under low, normal, moderate and heavy load conditions.(Spike testing)
